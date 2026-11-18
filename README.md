@@ -1,7 +1,18 @@
-# The World Today — Wednesday 18 November 2026
+# news-image-20261118
 
-Entry for the make.fun bounty **"Sum up 18 November's world news in one
-image"** (`news-image-20261118`).
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Victorcollin123/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Victorcollin123/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+A newspaper front page summing up the world's news of Wednesday 18 November 2026 — the Xi–Putin Shenzhen summit, Iran's strike on the US base in Kuwait, the Kerch Bridge hit again, Democrats taking the Senate 56–44, Cyclone Akvan, and a ticker of the rest — as one 1024×1024 image. Entry for the [make.fun bounty](https://make.fun/bounty/news-image-20261118).
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+Writes the front-page image to `/output/entry.png`.
 
 ## What it is
 
@@ -63,3 +74,7 @@ dependence — two runs write identical bytes.
 - `assets/` — the four text-free scene illustrations
 - `transcripts/` — the AI coding-agent session transcript for this build
 - `LICENSE` — MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=qp17c3xn&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
